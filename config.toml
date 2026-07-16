@@ -1,0 +1,12 @@
+baseURL = "https://lxr19840415.github.io/boke/"
+languageCode = "zh-CN"
+title = "我的博客"
+theme = "ananke"
+publishDir = "docs"
+paginate = 10
+
+[params]
+  author = "lxr19840415"
+
+[taxonomies]
+  tag = "tags"
